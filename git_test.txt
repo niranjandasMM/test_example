@@ -1,3 +1,5 @@
+The  MARK-II Project is focused on :
+
 When a website doesn't include "www" at the beginning of its URL, it simply means that the website is configured to work without the "www" prefix. Both "https://example.com" and "https://www.example.com" can point to the same website, but they don't have to. This is a matter of how the domain and its subdomains are set up.
 
 Here’s a bit more detail:
